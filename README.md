@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Schwartzenegger
+- 👋 Hi, I’m @Schwartzenegger (not the governator)
 - 👀 I’m interested in pbpk modeling
 - 🌱 I’m currently learning pksim
 - 💞️ I’m looking to collaborate on drug pk simulations
